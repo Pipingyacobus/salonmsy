@@ -2,3 +2,5 @@ ping
 mar
 
 hello assalamualaikumm
+
+waalaikumsalam
